@@ -1,0 +1,29 @@
+{
+"inventory":[
+{
+"type": "Rice",
+"name": "Basmati",
+"weight": 13.5,
+"pricePerWeight": 86.0
+},
+{
+"type": "Rice",
+"name": "Sona masuri",
+"weight": 10.5,
+"pricePerWeight": 76.50
+},
+{
+"type": "wheat",
+"name": "punjabi",
+"weight": 25.0,
+"pricePerWeight": 44.90
+},
+{
+"type": "pulse",
+"name": "eastern",
+"weight": 35.50,
+"pricePerWeight": 49.50
+}
+
+]
+}
