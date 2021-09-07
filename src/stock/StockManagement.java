@@ -29,9 +29,6 @@ public class StockManagement {
 		case 2:
 			printStock();
 			break;
-		case 3:
-			System.exit(1);
-			break;
 		default:
 			System.out.println("Invalid choice");
 			break;
