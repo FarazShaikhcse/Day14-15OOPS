@@ -25,4 +25,7 @@ public class Stock {
 		return "Stock [name=" + name + ", price=" + price + ", noOfShare=" + noOfShare + ", totalValue=" + totalValue
 				+ "]";
 	}
+
 }
+
+
