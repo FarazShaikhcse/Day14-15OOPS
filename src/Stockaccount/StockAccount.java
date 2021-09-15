@@ -181,7 +181,7 @@ public class StockAccount implements StockInterface {
 	}
 
 	/**
-	 * Buying of stock is implemented here
+	 * this method implements buying activity of stock
 	 */
 	@Override
 	public void buy(int amount, String symbol) {
@@ -215,7 +215,7 @@ public class StockAccount implements StockInterface {
 	}
 
 	/**
-	 * Selling of stock is implemented here
+	 * this method performs operation of Selling a stock
 	 */
 	@Override
 	public void sell(int amount, String symbol) {
@@ -250,7 +250,7 @@ public class StockAccount implements StockInterface {
 	}
 
 	/**
-	 * Saves the detail of stock after buying or selling including transaction time.
+	 * Saves the detail of stock to the json file after buying or selling including transaction time.
 	 */
 	@Override
 	public void save(String filename) {
